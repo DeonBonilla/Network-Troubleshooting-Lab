@@ -73,7 +73,8 @@ This screenshot shows the system's IPv4 configuration using the `ipconfig /all` 
 
 ![IP Configuration](images/ipconfig-all.png)
 
----
+---<img width="2048" height="1060" alt="VirtualBoxVM_M864AaZonR" src="https://github.com/user-attachments/assets/0995d67f-cab8-464b-80e9-9c6bf416d450" />
+
 
 ### 📡 Connectivity Testing
 
@@ -81,7 +82,8 @@ This screenshot demonstrates testing network connectivity using the `ping` comma
 
 ![Connectivity Testing](images/ping-test.png)
 
----
+---<img width="2560" height="1326" alt="VirtualBoxVM_rAWvxFK6Mr" src="https://github.com/user-attachments/assets/81403f66-3980-4e6b-9faa-949978dbf67c" />
+
 
 ### 🌐 DNS Troubleshooting
 
@@ -89,7 +91,8 @@ This screenshot shows successful DNS name resolution using the `nslookup` comman
 
 ![DNS Troubleshooting](images/nslookup.png)
 
----
+---<img width="2560" height="1326" alt="VirtualBoxVM_caJlZXDNet" src="https://github.com/user-attachments/assets/20ff1420-c431-482d-976a-ab88225fc551" />
+
 
 ### 🛠️ Network Diagnostics
 
@@ -97,7 +100,8 @@ This screenshot demonstrates using built-in Windows networking tools such as `tr
 
 ![Network Diagnostics](images/tracert.png)
 
----
+---<img width="2560" height="1326" alt="VirtualBoxVM_QtbJYNB1Hp" src="https://github.com/user-attachments/assets/7eb93b92-5bc0-45a7-a2ae-99163ba7442d" />
+
 
 ### ✅ Connectivity Verification
 
@@ -105,7 +109,8 @@ This screenshot confirms successful network communication after troubleshooting 
 
 ![Connectivity Verification](images/connectivity-verification.png)
 
----
+---<img width="2560" height="1326" alt="VirtualBoxVM_WGsxVaL2Gn" src="https://github.com/user-attachments/assets/08994d68-2f7c-416d-a31f-b642b59cb015" />
+
 
 ---
 
