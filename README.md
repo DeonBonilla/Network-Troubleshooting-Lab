@@ -40,6 +40,7 @@ Verified IPv4 configuration using Windows networking tools to ensure proper IP a
 
 ---
 
+
 ### 📡 Connectivity Testing
 
 Tested connectivity between systems using ICMP requests and verified communication with local and external devices.
@@ -66,7 +67,45 @@ Verified successful communication across the network after troubleshooting and c
 
 ## 📸 Screenshots
 
-*(Screenshots will be added here.)*
+### 🌍 IP Configuration
+
+This screenshot shows the system's IPv4 configuration using the `ipconfig /all` command, including the assigned IP address, subnet mask, default gateway, and DNS server information.
+
+![IP Configuration](images/ipconfig-all.png)
+
+---
+
+### 📡 Connectivity Testing
+
+This screenshot demonstrates testing network connectivity using the `ping` command to verify communication with local and remote devices.
+
+![Connectivity Testing](images/ping-test.png)
+
+---
+
+### 🌐 DNS Troubleshooting
+
+This screenshot shows successful DNS name resolution using the `nslookup` command to verify hostname-to-IP address translation.
+
+![DNS Troubleshooting](images/nslookup.png)
+
+---
+
+### 🛠️ Network Diagnostics
+
+This screenshot demonstrates using built-in Windows networking tools such as `tracert` to identify and troubleshoot network connectivity issues.
+
+![Network Diagnostics](images/tracert.png)
+
+---
+
+### ✅ Connectivity Verification
+
+This screenshot confirms successful network communication after troubleshooting by verifying connectivity to domain and external network resources.
+
+![Connectivity Verification](images/connectivity-verification.png)
+
+---
 
 ---
 
